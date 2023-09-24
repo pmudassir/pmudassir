@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudassir Mohammed</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate FullStack developer from India.</h3>
 
 <p align="left"> <a href="https://twitter.com/muddasir_mhd" target="blank"><img src="https://img.shields.io/twitter/follow/muddasir_mhd?logo=twitter&style=for-the-badge" alt="muddasir_mhd" /></a> </p>
 
