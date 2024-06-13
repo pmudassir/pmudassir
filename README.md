@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/muddasir_mhd" target="blank"><img src="https://img.shields.io/twitter/follow/muddasir_mhd?logo=twitter&style=for-the-badge" alt="muddasir_mhd" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **react,next,and js**
+- 💬 Ask me about **react, next, react native and ts**
 
 - 📫 How to reach me **pmuddasir@gmail.com**
 
