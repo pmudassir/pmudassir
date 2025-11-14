@@ -91,33 +91,9 @@ passions: ["Full-Stack Development", "Open Source", "Trekking & Travel"]
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Airbnb Clone](https://github-readme-stats.vercel.app/api/pin/?username=pmudassir&repo=airbnb-clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/pmudassir/airbnb-clone)
-[![AI Prompt Sharing](https://github-readme-stats.vercel.app/api/pin/?username=pmudassir&repo=promptopia&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/pmudassir/promptopia)
-
-[![Collaborative Editor](https://github-readme-stats.vercel.app/api/pin/?username=pmudassir&repo=collaborative-editor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/pmudassir/collaborative-editor)
-[![AI Stock Platform](https://github-readme-stats.vercel.app/api/pin/?username=pmudassir&repo=ai-stock-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/pmudassir/ai-stock-platform)
-
-</div>
-
----
-
 ## 🌊 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pmudassir&custom_title=Mudassir's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true" />
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pmudassir&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
