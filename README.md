@@ -15,19 +15,18 @@
 
 ## 🚀 About Me
 
-const mudassir = {
-role: "Lead Software Engineer",
-location: "Kerala, India 🌴",
-experience: "3+ years of building scalable applications",
-company: "BestDoc Technology",
-philosophy: {
-    work: "Grind never ends",
-    life: "Travel, explore and code",
-    mission: "Build more"
-},
-currentlyLearning: ["Rust 🦀", "Advanced System Design"],
-passions: ["Full-Stack Development", "Open Source", "Trekking & Travel"]
-};
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 💼 **Lead Software Engineer** at BestDoc Technology
+- 📍 Based in **Kerala, India**
+- 💻 **3+ years** of building scalable applications
+- 🦀 Currently learning **Rust** & **Advanced System Design**
+- 🌴 Love to **travel, explore and code**
+- ⚡ Philosophy: **"Grind never ends, Build more"**
+- 🎯 Passionate about **Full-Stack Development** & **Open Source**
+- 🏔️ Enjoy **trekking & travel** in my free time
+
+📫 **Reach me:** pmuddasir@gmail.com
 
 ---
 
